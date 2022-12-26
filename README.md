@@ -1,1 +1,1 @@
-# Practicas-js-poo
+# Practicas-poo-js
